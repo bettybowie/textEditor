@@ -35,6 +35,12 @@ THEN I should have proper build scripts for a webpack application
 
 ## Visual
 
+![app-2](./assets/app-2.png)
+![app](./assets/app.png)
+![indexedDB](./assets/indexedDB.png)
+![local-storage](./assets/local-storage.png)
+![manifest](./assets/manifest.png)
+![service-worker](./assets/service-worker.png)
 
 
 ## Links
